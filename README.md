@@ -1,6 +1,6 @@
 # GrowingTextViewWithAutoLayout [![Build Status](https://travis-ci.org/Fanghao/GrowingTextViewWithAutoLayout.svg?branch=master)](https://travis-ci.org/Fanghao/GrowingTextViewWithAutoLayout)
 
-![GrowingTextViewWithAutoLayout animated GIF](Screenshot/demo_480p.gif)
+![GrowingTextViewWithAutoLayout animated GIF](Screenshot/demo.gif)
 
 ## Features
 
