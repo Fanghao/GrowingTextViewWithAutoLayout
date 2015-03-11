@@ -121,6 +121,10 @@
 - (void)textViewDidChange:(UITextView *)textView {
     [self.view setNeedsUpdateConstraints];
     [self.view updateConstraintsIfNeeded];
+    
+    [UIView animateWithDuration:0.2 animations:^{
+        [self.view layoutIfNeeded];
+    }];
 }
 
 - (BOOL)textView:(UITextView *)textView shouldChangeTextInRange:(NSRange)range replacementText:(NSString *)text {

@@ -95,6 +95,39 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		C14B871E1AB0050D0082A1A0 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				C17E442E1AAFA97600E3020F /* GTVListViewController.h */,
+				C17E442F1AAFA97600E3020F /* GTVListViewController.m */,
+				C1E382691AAE3D3F00B4D7B2 /* GTVTableViewController.h */,
+				C1E3826A1AAE3D3F00B4D7B2 /* GTVTableViewController.m */,
+				C17E44291AAF8C9100E3020F /* GTVViewController.h */,
+				C17E442A1AAF8C9100E3020F /* GTVViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		C14B871F1AB005140082A1A0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C1E3826F1AAE47C900B4D7B2 /* GTVObject.h */,
+				C1E382701AAE47C900B4D7B2 /* GTVObject.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		C14B87201AB005190082A1A0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C1E382661AAE3D2E00B4D7B2 /* GTVTableViewCell.h */,
+				C1E382671AAE3D2E00B4D7B2 /* GTVTableViewCell.m */,
+				C1E3826C1AAE3D5800B4D7B2 /* GTVTextView.h */,
+				C1E3826D1AAE3D5800B4D7B2 /* GTVTextView.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
 		C1E3822E1AAE3BD600B4D7B2 = {
 			isa = PBXGroup;
 			children = (
@@ -120,18 +153,9 @@
 			children = (
 				C1E3823E1AAE3BD600B4D7B2 /* AppDelegate.h */,
 				C1E3823F1AAE3BD600B4D7B2 /* AppDelegate.m */,
-				C17E442E1AAFA97600E3020F /* GTVListViewController.h */,
-				C17E442F1AAFA97600E3020F /* GTVListViewController.m */,
-				C1E3826F1AAE47C900B4D7B2 /* GTVObject.h */,
-				C1E382701AAE47C900B4D7B2 /* GTVObject.m */,
-				C1E382661AAE3D2E00B4D7B2 /* GTVTableViewCell.h */,
-				C1E382671AAE3D2E00B4D7B2 /* GTVTableViewCell.m */,
-				C1E382691AAE3D3F00B4D7B2 /* GTVTableViewController.h */,
-				C1E3826A1AAE3D3F00B4D7B2 /* GTVTableViewController.m */,
-				C1E3826C1AAE3D5800B4D7B2 /* GTVTextView.h */,
-				C1E3826D1AAE3D5800B4D7B2 /* GTVTextView.m */,
-				C17E44291AAF8C9100E3020F /* GTVViewController.h */,
-				C17E442A1AAF8C9100E3020F /* GTVViewController.m */,
+				C14B871E1AB0050D0082A1A0 /* Controller */,
+				C14B871F1AB005140082A1A0 /* Model */,
+				C14B87201AB005190082A1A0 /* View */,
 				C1E382471AAE3BD600B4D7B2 /* Images.xcassets */,
 				C1E382491AAE3BD600B4D7B2 /* LaunchScreen.xib */,
 				C1E3823A1AAE3BD600B4D7B2 /* Supporting Files */,

@@ -1,6 +1,6 @@
 # GrowingTextViewWithAutoLayout [![Build Status](https://travis-ci.org/Fanghao/GrowingTextViewWithAutoLayout.svg?branch=master)](https://travis-ci.org/Fanghao/GrowingTextViewWithAutoLayout)
 
-An open source demo for growing text view using auto layout.
+![GrowingTextViewWithAutoLayout animated GIF](Screenshot/demo_480p.gif)
 
 ## Features
 
