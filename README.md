@@ -1,8 +1,10 @@
-An open source demo for growing text view.
+# GrowingTextViewWithAutoLayout
+
+An open source demo for growing text view using auto layout.
 
 ## Features
 
-* A group of growing text view within self sizing cell in table view
+* A group of growing text views within self sizing cell in table view
 * A single growing text view in regular controller
 * Working for all screen orientations
 
@@ -21,7 +23,3 @@ An open source demo for growing text view.
 ## Contribute
 
 If you wish to contribute, send some pull requests!
-
-## License
-
-MIT
